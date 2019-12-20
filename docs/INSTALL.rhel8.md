@@ -104,7 +104,7 @@ sudo yum update -y
 # <snippet-end 0_yum-update.sh>
 ```
 
-## 1.6/ **[RHEL]** Install the EPEL repo
+## 1.6/ Install the EPEL repo
 
 ```bash
 # <snippet-begin 0_RHEL_EPEL.sh>
